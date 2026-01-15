@@ -1,3 +1,4 @@
+# Chido-Efobi
 
 Cybersecurity Project Portfolio
 # Cybersecurity Specialist focused on SOC & GRC | Threat Detection, Incident Response & Vulnerability Management | Hands-on with SIEM and XDR/EDR | MSc Cybersecurity | CompTIA, ISC2 & Google Certified
@@ -31,9 +32,9 @@ What I focus on:
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
 Contact / Links:
-- LinkedIn: [Copy/Paste LinkedIn URL]
-- Portfolio: [copy your Porfolio GitHub URL and paste]
-- Email: [Copy/Paste Your Email]
+- LinkedIn: [https://www.linkedin.com/in/chido-efobi-95691143/]
+- Portfolio: [https://github.com/ChidoEfobi/Chido-Efobi]
+- Email: [chynornor@yahoo.com]
 
 ---
 
