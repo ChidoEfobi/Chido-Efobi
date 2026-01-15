@@ -1,6 +1,6 @@
-# Chido-Efobi
+
 Cybersecurity Project Portfolio
-# Chido Efobi - Cybersecurity Specialist focused on SOC & GRC | Threat Detection, Incident Response & Vulnerability Management | Hands-on with SIEM and XDR/EDR | MSc Cybersecurity | CompTIA, ISC2 & Google Certified
+# Cybersecurity Specialist focused on SOC & GRC | Threat Detection, Incident Response & Vulnerability Management | Hands-on with SIEM and XDR/EDR | MSc Cybersecurity | CompTIA, ISC2 & Google Certified
 
 # Hello, I'm  Chido Efobi
 <a href="https://www.linkedin.com/in/chido-efobi-95691143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
