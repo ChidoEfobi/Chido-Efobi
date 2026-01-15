@@ -105,6 +105,7 @@ Threat Hunting Projects
 
 | Project                                                                       | Repository                                                                                                |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| SOC Threat Hunt — Unauthorized TOR Usage (MDE)                                   | <a href="https://github.com/ChidoEfobi/SOC-Threat-Hunt.git">SOC threat Hunt</a>                   |
 | Tor Browser Usage Detection                                                   | <a href="https://github.com/yourusername/threat-hunt-tor-usage">TOR Usage Detection</a>                   |
 | Device Exposed to Internet – Brute Force Detection (Azure VM, Sentinel & KQL) | <a href="https://github.com/yourusername/threat-hunt-exposed-vm">Exposed VM Brute Force Hunt</a>          |
 | Sudden Network Slowdown Investigation                                         | <a href="https://github.com/yourusername/threat-hunt-network-slowdown">Network Slowdown Investigation</a> |
