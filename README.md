@@ -1,12 +1,11 @@
 # Chido-Efobi
 Cybersecurity Project Portfolio
-# Chido Efobi - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, XDR/EDR, Digital Forensics & Incident Response | CompTIA Certified | MSc Cybersecurity Graduate (AU)| ISC2 Certified| Google Certified
+# Chido Efobi - Cybersecurity Specialist focused on SOC & GRC | Threat Detection, Incident Response & Vulnerability Management | Hands-on with SIEM and XDR/EDR | MSc Cybersecurity | CompTIA, ISC2 & Google Certified
 
 # Hello, I'm  Chido Efobi
 <a href="https://www.linkedin.com/in/chido-efobi-95691143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight.  
-My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments.
+I am a Cybersecurity Specialist with hands-on experience in **SIEM alert investigation (Splunk, Microsoft Sentinel, Wazuh), detection engineering (KQL/SPL, dashboards, correlation rules), EDR/XDR analysis (Defender, SentinelOne, CrowdStrike), SOAR automation (Splunk SOAR, Sentinel Logic Apps), incident response (ticketing, case handling, playbooks, reporting), vulnerability management (Tenable, Rapid7, OpenVAS), threat intelligence, and GRC (risk registers, ISMS scope, policies, audit-ready artifacts). MSc in Electrical and Computer Engineering (University of Manitoba), CompTIA, ISC2 & Google Certified.
 
 ---
 
