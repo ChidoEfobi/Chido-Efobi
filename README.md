@@ -79,9 +79,9 @@ SOC / SIEM / Incident Response Projects
 
 Incident Response Projects
 
-| Project                                                    | Repository                                                                                        |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Incident Response – Brute Force Attack                     | <a href="https://github.com/yourusername/ir-brute-force-attack">IR Brute Force Attack</a>         |
+| Project                                                  | Repository                                                                                              |
+| ---------------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
+| Incident Response – Brute Force Attack                  | <a href="https://github.com/ChidoEfobi/Brute-Force-Attack-Detection-Using-Wazuh-Suricata">IR Brute Force Attack</a>         |
 
 Threat Hunting Projects
 
