@@ -1,8 +1,9 @@
-# Chido-Efobi
+# Chido Efobi
 
-Cybersecurity Project Portfolio
-# Senior Cloud Security & Governance Lead | Azure Security | SOC & Blue Team | Network Security | Telecom Infrastructure| MSc Electrical & Computer Engr.
-# Hello, I'm  Chido Efobi
+Senior Cloud Security & Infrastructure Engineer
+
+Multi-cloud | SIEM | Detection Engineering | Governance Automation 
+
 <a href="https://www.linkedin.com/in/chido-efobi-95691143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
