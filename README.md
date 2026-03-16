@@ -59,6 +59,9 @@ Incident Response Projects
 
 | Project                                                  | Repository                                                                                              |
 | ---------------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
-| Incident Response – Brute Force Attack                  | <a href="https://github.com/ChidoEfobi/Brute-Force-Attack-Detection-Using-Wazuh-Suricata">IR Brute Force Attack</a>         |
+|Azure Threat Detection Lab  | <a href="https://github.com/ChidoEfobi/Azure-Threat-Detection-Lab">Azure Threat Detection Lab</a>  |
+|Azure Security Telemetry Lab  | <a href="https://github.com/ChidoEfobi/Azure-Security-Telemetry-Lab">Azure Security Telemetry Lab</a>  |
+| Incident Response – Brute-Force-Attack-Detection-Using-Wazuh-Suricata | <a href="https://github.com/ChidoEfobi/Brute-Force-Attack-Detection-Using-Wazuh-Suricata">IR Brute Force Attack</a>         |
+|Cloud Platform Architecture Standards | <a href="https://github.com/ChidoEfobi/platform-architecture-standards">Cloud Platform Architecture Standards</a>  |
 
 
