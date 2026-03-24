@@ -1,6 +1,6 @@
 # Chido Efobi
 
-Senior Cloud Security & Infrastructure Engineer
+Senior Cloud Security & Governance Lead
 
 Multi-cloud | SIEM | SOAR | Detection Engineering | Governance Automation 
 
@@ -8,7 +8,7 @@ Multi-cloud | SIEM | SOAR | Detection Engineering | Governance Automation
 
 ## About Me
 
-Senior Cloud Security and Infrastructure Engineer with 14+ years of experience securing telecom, enterprise network, and cloud analytics environments operating at production scale.
+Senior Cloud Security & Governance Lead with 14+ years of experience securing telecom, enterprise network, and cloud analytics environments operating at production scale.
 
 My background spans carrier-grade networking, hybrid infrastructure, and modern cloud security engineering. I began my career designing wireless and microwave backhaul systems before moving into Layer 2 and Layer 3 core network engineering supporting broadband, MPLS, LTE, and enterprise services. This foundation continues to influence how I approach cloud security across networks, identities, workloads, and data platforms.
 
@@ -59,6 +59,7 @@ Incident Response Projects
 
 | Project                                                  | Repository                                                                                              |
 | ---------------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
+|Sentinel Incident Response Automation Lab (SOAR) | <a href="https://github.com/ChidoEfobi/Sentinel-Incident-Response-Automation-Lab-SOAR-">Sentinel Incident Response Automation Lab (SOAR)</a>  |
 |Azure Threat Detection Lab  | <a href="https://github.com/ChidoEfobi/Azure-Threat-Detection-Lab">Azure Threat Detection Lab</a>  |
 |Azure Security Telemetry Lab  | <a href="https://github.com/ChidoEfobi/Azure-Security-Telemetry-Lab">Azure Security Telemetry Lab</a>  |
 | Incident Response – Brute-Force-Attack-Detection-Using-Wazuh-Suricata | <a href="https://github.com/ChidoEfobi/Brute-Force-Attack-Detection-Using-Wazuh-Suricata">IR Brute Force Attack</a>         |
