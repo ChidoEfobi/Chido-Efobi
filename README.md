@@ -2,7 +2,7 @@
 
 Senior Cloud Security & Infrastructure Engineer
 
-Multi-cloud | SIEM | Detection Engineering | Governance Automation 
+Multi-cloud | SIEM | SOAR | Detection Engineering | Governance Automation 
 
 <a href="https://www.linkedin.com/in/chido-efobi-95691143/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
